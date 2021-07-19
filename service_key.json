@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "galeriteknologibersama-cfb9e",
+  "private_key_id": "1a7ce2540c0f3b4025eee4dcfd161ecacf408362",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKsV1A5lMGX+IK\noUFmUtAqNmkPuqz5trnQ8zLtYK2ld3wiSL8GYanPuVgxo+XooThsU9FqYpxj6pX/\nmd4JxjvRIp1jePgo36P+bylXllryCHoeR7jk+fXKH/906Ck2o8FATlrxt2vrFeRP\nJDvU8TYWZlySZXNK3JF9GZ2lH6mLUQfftPhJ7XXAFPnLO9dufk4OfWiY8CSPgaNu\naxSkzHlFHcTe3WlybBlI0AYnIFoZaQ5N+wM4J5bg1u7j+kkWsePeWTJ8h5+rvndO\n5TU5OdJvaB6JawG4aLhc9v9kClUui3SeGEOy14Az0VqatEsbkS8o/FSZsyTTrL3j\nuBVzmJPJAgMBAAECggEADf9LEw8Ex0EqVTUXFNedr/iTb0ZjKRh1Awi0aN+fBjj2\n3dA7vtdSOHnSbRUmLJcrlBGCue/G4ICD7MOFqZOisFnNWB/ztTDifJDVIEsOCz5K\nHpqx2kAnuNZWWA6rP+51izkN/zi9L14S5uM37YfdxhS6ClMOr+oE8whokk1aMjhd\n+ew5aOtdzqKIMnKacROYmdxlnvyIk0mvoDepf9vwk7R9e7eHrHaTbZEOccGPh2tk\nO2zKBHXPJSVSxleMRq8wwsDtI2UJsDgPpL6PtdTWfv0m9j4Aj7v/Hgy1ax4w8fs9\n9AIjzMN1pgQtZg68DS+iaiuyIJ0OnRkmXvHVPyMcYQKBgQD3yB9Yj2c990OMvr/K\nJkjs6HEOi4N66zUaxcSXhMoR5UZ4Smk3y6a1jbbfUNfOqgdmsUI2LbCG9hTJVP1P\neGKZU1qpzuQQj9GXvCg3wz9rTsw64unif4msmyNUKooXJXxq09Sp4EUk4y4HKtLs\nVn7lL82PLoP+J6322ZPyV/l98QKBgQDRamYTgmyb/VkUL5vVaetTWWGcVt2bEnzC\nsz1y9MwIu4sm1tUYqgYJHpVMLkGSLn3UbBa3cnhUNTpv53dY46y50vLjOJTVTl4K\nMSM0uys22Dmx4QXrfnizFqubvE1CZTFghMhXjDfbep6FzygrZiFfPSAamkAJfVQC\nRa28Pul7WQKBgFAVsHvxLY9LoduVs2tk4GEh55ip4v8RkoJqtVW7p4wNLK+obUWJ\nXwKDIT4gZP/42JeKZzoXnlygoKtJ+u16nXOtCzqjEfeAZF/EgsMzKgZG25+Uw79f\nNWJCajLD5QoCJappeOzG/dIkUzYh0zZr5muw/aFviV3V+VY1kKndYVghAoGAESPY\nPviJ0yqlQ9Wxt4H31NaX+qfRc4PL2lO5T9Nhb8WJ2h/zSRWBcPWj2pxemYxcmCpQ\noaso1huVMNuNFSVtWbg+UQKsi9jiMYtcClDXdKG19y0nwuKTFnVgjlqXKDwIEpJL\no37Cg6BBoUoXS5YMXTMvkX3Wh/BOE/GICsRLb+ECgYA0BTMjM56RonXD7xFSoZ1v\nmzc1vjXXD/3tyo1S//ehOzjfMXeZuBZBsOB4eneSRdfxNBwkbMhZqEE6CadTResZ\nPTQ9BOeKlcIjDZDQo5EMJoNCVAIAP/4/q+EsWfvLqCnDBNp7mzml6xpXs55xRYo+\nJbNf8NurYyR90nEytE1txA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vnjb7@galeriteknologibersama-cfb9e.iam.gserviceaccount.com",
+  "client_id": "105384825759634703075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vnjb7%40galeriteknologibersama-cfb9e.iam.gserviceaccount.com"
+}

@@ -1,0 +1,187 @@
+[
+  {
+    "itemID": "1",
+    "strBackground" : "https://lh5.googleusercontent.com/p/AF1QipNcIpvgbjrt2uwdirtwqZ7pgqsrtcNL5t2mjuqe=s644-k-no",
+    "itemName": "SpeedLab Indonesia",
+    "type" : "Klinik",
+    "districts" : "Mampang Prpt",
+    "city" : "Jakarta Selatan",
+    "isOpen": true,
+    "open": 7,
+    "close": 22,
+    "visiting hours" : [
+     7, 8 , 9, 10 ,11, 12 , 13, 14, 15
+    ],
+    "tag" : [
+      "all",  "covid19test", "pcr", "rapid", "isoma"
+    ],
+
+    "orderType" : [
+      "walkin",  "drivethru" , "homecare"
+    ],
+
+    "service" : 
+    [
+      {
+        "itemID": "pcr10",    
+         "itemName": "PCR Swab Test - Hasil 10 Jam",
+         "metode" : "",
+        "price": 1000000,
+        "tag" : "covid19test|pcr|all",
+        "desc" : "PCR Test meggunakan metode swab pada bagian dari dalam hidung (Nasofaring) dan atau bagian belakang tenggorokan (Orofaring).",
+        "strImage1": "assets/images/1.png",
+        "homecareMin" : 5,
+        "homecareMax" : 10
+      },
+    
+      {
+        "itemID": "pcr24",    
+         "itemName": "PCR Swab Test - Hasil 24 Jam",
+         "metode" : "",
+        "price": 1000000,
+        "tag" : "covid19test|pcr|all",
+
+        "desc" : "PCR Test meggunakan metode swab pada bagian dari dalam hidung (Nasofaring) dan atau bagian belakang tenggorokan (Orofaring).",
+        "strImage1": "assets/images/1.png",
+        "homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    ,
+      {
+        "itemID": "rapidtestantibody",    
+         "itemName": "Rapid Test Antibody",
+         "metode" : "",
+        "price": 295000,
+        "tag" : "covid19test|rapid|all",
+
+        "desc" : "Pemeriksaan rapid test ini menggunakan spesimen darah untuk mendeteksi respons imun terhadap COVID-19.",
+        "strImage1": "assets/images/2.png"
+        ,        "homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    
+      ,
+      {
+        "itemID": "rapidtestantigen",    
+         "itemName": "Rapid Test Antigen",
+         "metode" : "",
+        "price": 295000,
+        "tag" : "covid19test|rapid|all",
+
+        "desc" : "Pemeriksaan rapid test ini menggunakan spesimen darah untuk mendeteksi respons imun terhadap COVID-19.",
+        "strImage1": "assets/images/3.png"
+        ,"homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    
+      ,
+      {
+        "itemID": "isoma",    
+         "itemName": "Isolasi Mandiri",
+         "metode" : "",
+        "price": 10000000,
+        "tag" : "isoma|all",
+
+        "desc" : "merupakan pelayanan spesial dari saya yang mencoba memenuhi kebutuhan masyarakat akan pelayanan isolasi mandiri bagi pengidap COVID-19. Dalam layanan ini Halodoc bekerjasama dengan klinik dan hotel rekanan yang akan memberikan paket layanan isolasi mandiri.",
+        "strImage1": "assets/images/4.png"
+       , "homecareMin" : 5,
+        "homecareMax" : 10
+      }
+    ]
+    
+   
+  }
+
+  ,
+
+  {
+    "itemID": "2",
+    "strBackground" : "https://lh3.ggpht.com/p/AF1QipMcqwVjvc5zG2Tl7xp1nZ9gLGnMpHaWRmY3Q50n=s1536",
+    "itemName": "Swab Point Summarecon Bekasi",
+    "type" : "Klinik",
+    "districts" : "Marga Mulya",
+    "city" : "Bekasi Utara",
+    "isOpen": true,
+    "open": 7,
+    "close": 22,
+    "visiting hours" : [
+     7, 8 , 9, 10 ,11, 12 , 13, 14, 15
+    ],
+    "tag" : [
+      "all",  "covid19test", "pcr", "rapid"
+    ],
+
+    "orderType" : [
+      "walkin",  "drivethru" , "homecare"
+    ],
+    
+
+    "service" : 
+    [
+      {
+        "itemID": "pcr10",    
+         "itemName": "PCR Swab Test - Hasil 10 Jam",
+         "metode" : "",
+        "price": 1000000,
+        "tag" : "covid19test|pcr|all",
+
+        "desc" : "PCR Test meggunakan metode swab pada bagian dari dalam hidung (Nasofaring) dan atau bagian belakang tenggorokan (Orofaring).",
+        "strImage1": "assets/images/1.png",
+        "homecareMin" : 5,
+        "homecareMax" : 10
+
+    
+      },
+    
+      {
+        "itemID": "pcr24",    
+         "itemName": "PCR Swab Test - Hasil 24 Jam",
+         "metode" : "",
+        "price": 1000000,
+        "tag" : "covid19test|pcr|all",
+
+        "desc" : "PCR Test meggunakan metode swab pada bagian dari dalam hidung (Nasofaring) dan atau bagian belakang tenggorokan (Orofaring).",
+        "strImage1": "assets/images/1.png",
+        "homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    ,
+      {
+        "itemID": "rapidtestantibody",    
+         "itemName": "Rapid Test Antibody",
+         "metode" : "",
+        "price": 295000,
+        "tag" : "covid19test|rapid|all",
+
+        "desc" : "Pemeriksaan rapid test ini menggunakan spesimen darah untuk mendeteksi respons imun terhadap COVID-19.",
+        "strImage1": "assets/images/2.png"
+        ,        "homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    
+      ,
+      {
+        "itemID": "rapidtestantigen",    
+         "itemName": "Rapid Test Antigen",
+         "metode" : "",
+        "price": 295000,
+        "tag" : "covid19test|rapid|all",
+        "desc" : "Pemeriksaan rapid test ini menggunakan spesimen darah untuk mendeteksi respons imun terhadap COVID-19.",
+        "strImage1": "assets/images/3.png"
+        ,"homecareMin" : 5,
+        "homecareMax" : 10
+    
+      }
+    
+    ]
+    
+   
+  }
+
+ 
+]

@@ -1,0 +1,53 @@
+[
+    {
+      "itemID": "1" ,
+      "itemName" : "Covid19 Test",
+      "tag" : "covid19test",
+      "collect"  : "merchant",
+      "image"  : "assets/labtest.png"
+    },
+    {
+        "itemID": "2" ,
+        "itemName" : "Konsultasi Dokter",
+        "tag" : "konsultasi",
+        "collect"  : "merchant",
+        "image"  : "assets/ambulance.png"
+      }
+      ,
+      {
+        "itemID": "3" ,
+        "itemName" : "Isolasi Mandiri",
+        "tag" : "isoma",
+        "collect"  : "merchant",
+        "image"  : "assets/homecare.png"
+      }
+,
+      {
+        "itemID": "4" ,
+        "itemName" : "Janji RS",
+        "tag" : "all",
+        "collect"  : "merchant",
+        "image"  : "assets/vaccine.png"
+      }
+
+      ,
+      {
+        "itemID": "5" ,
+        "itemName" : "PCR Test",
+        "tag" : "pcr",
+        "collect"  : "merchant",
+        "image"  : "assets/rapid.png"
+      }
+    
+
+      ,
+      {
+        "itemID": "6" ,
+        "itemName" : "Rapid Test",
+        "tag" : "rapid",
+        "collect"  : "merchant",
+        "image"  :"assets/rapid2.png"
+      }
+
+
+]
