@@ -17,7 +17,7 @@
     ],
 
     "orderType" : [
-      "walkin",  "drivethru" , "homecare"
+      "walkin",  "drivethru"
     ],
 
     "service" : 
